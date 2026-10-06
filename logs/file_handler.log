@@ -1,0 +1,472 @@
+2026-07-06 00:44:50,332 - tensorflow - WARNING - From C:\Users\SAI DHRUVA\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-07-06 00:49:01,348 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-07-06 00:49:01,601 - tensorflow - WARNING - From C:\Users\SAI DHRUVA\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-07-06 00:49:21,744 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-07-06 00:50:40,321 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:51:07,283 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:51:07,291 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-07-06 00:51:07,483 - FileHandler - INFO - Shapes dataset generation complete.
+2026-07-06 00:51:07,483 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-07-06 00:51:08,492 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-07-06 00:51:09,313 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:51:16,803 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:51:16,813 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-07-06 00:51:30,510 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:51:30,514 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-07-06 00:51:45,891 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:51:52,029 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:51:52,042 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-07-06 00:51:52,108 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-07-06 00:51:52,114 - BenchmarkTrainer - INFO - Training ML model: svm (simulation=True)
+2026-07-06 00:51:53,126 - BenchmarkTrainer - INFO - Training ML model: dt (simulation=True)
+2026-07-06 00:51:54,136 - BenchmarkTrainer - INFO - Training ML model: rf (simulation=True)
+2026-07-06 00:51:55,144 - BenchmarkTrainer - INFO - Training DL model: cnn (simulation=True)
+2026-07-06 00:51:57,656 - BenchmarkTrainer - INFO - Training DL model: mobilenetv2 (simulation=True)
+2026-07-06 00:52:00,116 - BenchmarkTrainer - INFO - Training DL model: efficientnet (simulation=True)
+2026-07-06 00:52:03,614 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:52:11,568 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:52:18,047 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:52:25,309 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:52:28,374 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:52:29,310 - GroqEngine - INFO - Groq client initialized successfully.
+2026-07-06 00:52:32,293 - GroqEngine - INFO - Groq client initialized successfully.
+2026-10-05 17:54:44,734 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 17:56:40,979 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 17:58:36,218 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 17:58:36,517 - tensorflow - WARNING - From C:\Users\SAI DHRUVA\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-10-05 17:58:54,739 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 17:59:31,563 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 17:59:31,582 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-10-05 17:59:31,954 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-05 17:59:31,955 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-10-05 17:59:33,040 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-05 17:59:33,400 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 17:59:44,242 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 17:59:44,268 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-05 17:59:53,181 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 17:59:53,191 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-05 18:00:01,422 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:00:05,108 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:00:05,148 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-10-05 18:00:05,221 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-10-05 18:00:05,224 - BenchmarkTrainer - INFO - Training ML model: svm (simulation=True)
+2026-10-05 18:00:06,241 - BenchmarkTrainer - INFO - Training ML model: dt (simulation=True)
+2026-10-05 18:00:07,255 - BenchmarkTrainer - INFO - Training ML model: rf (simulation=True)
+2026-10-05 18:00:08,268 - BenchmarkTrainer - INFO - Training DL model: cnn (simulation=True)
+2026-10-05 18:00:10,806 - BenchmarkTrainer - INFO - Training DL model: mobilenetv2 (simulation=True)
+2026-10-05 18:00:13,280 - BenchmarkTrainer - INFO - Training DL model: efficientnet (simulation=True)
+2026-10-05 18:00:16,332 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:00:20,895 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:05:52,270 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-05 18:05:52,478 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-05 18:05:52,520 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-05 18:05:53,762 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-05 18:05:53,804 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-05 18:05:53,804 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:05:53,818 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-05 18:07:01,475 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:05,350 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:07,737 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:07,745 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-10-05 18:07:07,962 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-05 18:07:07,962 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-10-05 18:07:09,005 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-05 18:07:09,381 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:12,832 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:12,842 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-05 18:07:21,233 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:21,241 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-05 18:07:26,202 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:29,207 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:29,225 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-10-05 18:07:29,281 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-10-05 18:07:29,285 - BenchmarkTrainer - INFO - Training ML model: svm (simulation=True)
+2026-10-05 18:07:30,291 - BenchmarkTrainer - INFO - Training ML model: dt (simulation=True)
+2026-10-05 18:07:31,303 - BenchmarkTrainer - INFO - Training ML model: rf (simulation=True)
+2026-10-05 18:07:32,317 - BenchmarkTrainer - INFO - Training DL model: cnn (simulation=True)
+2026-10-05 18:07:34,887 - BenchmarkTrainer - INFO - Training DL model: mobilenetv2 (simulation=True)
+2026-10-05 18:07:37,363 - BenchmarkTrainer - INFO - Training DL model: efficientnet (simulation=True)
+2026-10-05 18:07:40,366 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:46,192 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:55,169 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:56,215 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:07:59,162 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:02,617 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:07,186 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:08,767 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:08,786 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-10-05 18:08:09,015 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-05 18:08:09,016 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-10-05 18:08:10,010 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-05 18:08:10,362 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:12,193 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:15,022 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:17,814 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:17,837 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-05 18:08:22,171 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:22,180 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-05 18:08:25,739 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:28,254 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:28,265 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-10-05 18:08:28,311 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-10-05 18:08:28,315 - BenchmarkTrainer - INFO - Training ML model: svm (simulation=True)
+2026-10-05 18:08:29,329 - BenchmarkTrainer - INFO - Training ML model: dt (simulation=True)
+2026-10-05 18:08:30,342 - BenchmarkTrainer - INFO - Training ML model: rf (simulation=True)
+2026-10-05 18:08:31,350 - BenchmarkTrainer - INFO - Training DL model: cnn (simulation=True)
+2026-10-05 18:08:34,033 - BenchmarkTrainer - INFO - Training DL model: mobilenetv2 (simulation=True)
+2026-10-05 18:08:36,578 - BenchmarkTrainer - INFO - Training DL model: efficientnet (simulation=True)
+2026-10-05 18:08:39,529 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:08:42,267 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:10:29,873 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:10:30,098 - tensorflow - WARNING - From C:\Users\SAI DHRUVA\AppData\Local\Programs\Python\Python313\Lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2026-10-05 18:10:32,437 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:10:49,378 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:10:49,393 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-10-05 18:10:49,721 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-05 18:10:49,721 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\sample_shapes_dataset
+2026-10-05 18:10:50,759 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-05 18:10:51,131 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:10:54,180 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:10:54,195 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-05 18:10:58,237 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:10:58,243 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-05 18:11:03,825 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:11:06,106 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:11:06,154 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-10-05 18:11:06,243 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-10-05 18:11:06,250 - BenchmarkTrainer - INFO - Training ML model: svm (simulation=True)
+2026-10-05 18:11:07,256 - BenchmarkTrainer - INFO - Training ML model: dt (simulation=True)
+2026-10-05 18:11:08,267 - BenchmarkTrainer - INFO - Training ML model: rf (simulation=True)
+2026-10-05 18:11:09,274 - BenchmarkTrainer - INFO - Training DL model: cnn (simulation=True)
+2026-10-05 18:11:11,740 - BenchmarkTrainer - INFO - Training DL model: mobilenetv2 (simulation=True)
+2026-10-05 18:11:14,261 - BenchmarkTrainer - INFO - Training DL model: efficientnet (simulation=True)
+2026-10-05 18:11:17,304 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:11:23,224 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:11:28,920 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:11:46,204 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:11:47,577 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:11:48,568 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:15:33,065 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-05 18:15:33,171 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-05 18:15:33,196 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-05 18:15:34,392 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-05 18:15:34,415 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-05 18:15:34,415 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:15:34,423 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-05 18:15:34,424 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-05 18:15:34,426 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-05 18:15:34,427 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-05 18:26:01,697 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-05 18:26:01,853 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-05 18:26:01,877 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-05 18:26:02,633 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-05 18:26:02,700 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-05 18:26:02,701 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:26:02,715 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-05 18:26:02,715 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-05 18:26:02,716 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-05 18:26:02,716 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-05 18:44:42,801 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-05 18:44:42,940 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-05 18:44:42,966 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-05 18:44:43,887 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-05 18:44:43,949 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-05 18:44:43,950 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-05 18:44:43,962 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-05 18:44:43,962 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-05 18:44:43,962 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-05 18:44:43,963 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-06 21:26:08,082 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 21:26:08,316 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 21:26:08,420 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 21:26:09,577 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 21:26:09,621 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 21:26:09,621 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-06 21:26:09,632 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 21:26:09,633 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 21:26:09,634 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-06 21:26:09,634 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-06 21:50:07,810 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\archive (3)_converted
+2026-10-06 21:50:12,472 - FileHandler - INFO - Validation report: Valid=True, Classes=['Ankle_Boot', 'Bag', 'Coat', 'Dress', 'Pullover', 'Sandal', 'Shirt', 'Sneaker', 'T-shirt', 'Trouser'], Total Images=500
+2026-10-06 21:52:27,413 - FileHandler - INFO - Checking if fashion-mnist_train.csv is an image pixel dataset...
+2026-10-06 21:52:27,438 - FileHandler - INFO - Detected pixel image CSV (28x28, rgb=False) in fashion-mnist_train.csv
+2026-10-06 21:52:28,603 - FileHandler - INFO - Successfully converted CSV dataset into 10 classes with 600 total images at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\archive (3)\converted_images
+2026-10-06 21:52:28,603 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\datasets\archive (3)\converted_images
+2026-10-06 21:52:30,963 - FileHandler - INFO - Validation report: Valid=True, Classes=['Ankle_Boot', 'Bag', 'Coat', 'Dress', 'Pullover', 'Sandal', 'Shirt', 'Sneaker', 'T-shirt', 'Trouser'], Total Images=600
+2026-10-06 21:55:42,051 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 21:55:42,249 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 21:55:42,277 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder
+2026-10-06 21:55:42,278 - FileHandler - INFO - Checking if test_mnist.csv is an image pixel dataset...
+2026-10-06 21:55:42,297 - FileHandler - INFO - Detected pixel image CSV (8x8, rgb=False) in test_mnist.csv
+2026-10-06 21:55:42,337 - FileHandler - INFO - Successfully converted CSV dataset into 2 classes with 20 total images at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder\converted_images
+2026-10-06 21:55:42,684 - FileHandler - INFO - Validation report: Valid=True, Classes=['Digit_0', 'Digit_1'], Total Images=20
+2026-10-06 21:55:42,698 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 21:55:43,837 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 21:55:43,908 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 21:55:44,261 - GroqEngine - INFO - Groq client initialized successfully.
+2026-10-06 21:55:44,271 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 21:55:44,271 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 21:55:44,272 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-06 21:55:44,272 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-06 21:56:37,990 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 21:56:38,113 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 21:56:38,149 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder
+2026-10-06 21:56:38,149 - FileHandler - INFO - Checking if test_mnist.csv is an image pixel dataset...
+2026-10-06 21:56:38,167 - FileHandler - INFO - Detected pixel image CSV (8x8, rgb=False) in test_mnist.csv
+2026-10-06 21:56:38,188 - FileHandler - INFO - Successfully converted CSV dataset into 2 classes with 20 total images at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder\converted_images
+2026-10-06 21:56:38,455 - FileHandler - INFO - Validation report: Valid=True, Classes=['Digit_0', 'Digit_1'], Total Images=20
+2026-10-06 21:56:38,465 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 21:56:39,596 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 21:56:39,670 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 21:56:39,670 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-06 21:56:39,689 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 21:56:39,691 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 21:56:39,692 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-06 21:56:39,693 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-06 22:05:53,265 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 22:05:53,379 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 22:05:53,422 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder
+2026-10-06 22:05:53,423 - FileHandler - INFO - Inspecting CSV candidate: test_mnist.csv
+2026-10-06 22:05:53,444 - FileHandler - INFO - Detected pixel image CSV (8x8, rgb=False) in test_mnist.csv
+2026-10-06 22:05:53,482 - FileHandler - INFO - Successfully converted CSV dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder\converted_images
+2026-10-06 22:05:53,835 - FileHandler - INFO - Validation report: Valid=True, Classes=['Digit_0', 'Digit_1'], Total Images=20
+2026-10-06 22:05:53,858 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder
+2026-10-06 22:05:53,859 - FileHandler - INFO - Inspecting CSV candidate: metadata.csv
+2026-10-06 22:05:53,883 - FileHandler - INFO - Detected CSV-indexed dataset in metadata.csv (img_col='image_id', lbl_col='diagnosis')
+2026-10-06 22:05:54,011 - FileHandler - INFO - Successfully organized CSV-indexed dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder\organized_by_class
+2026-10-06 22:05:54,028 - FileHandler - INFO - Validation report: Valid=True, Classes=['Benign', 'Malignant'], Total Images=10
+2026-10-06 22:05:54,034 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 22:05:54,038 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 22:05:54,970 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 22:05:54,972 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\fer_test_folder
+2026-10-06 22:05:54,973 - FileHandler - INFO - Inspecting CSV candidate: fer_sample.csv
+2026-10-06 22:05:54,994 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\flat_test_folder
+2026-10-06 22:05:54,995 - FileHandler - INFO - Auto-organizing flat images by detected class patterns: ['Covid-19', 'Normal']
+2026-10-06 22:05:55,015 - FileHandler - INFO - Validation report: Valid=True, Classes=['Covid-19', 'Normal'], Total Images=8
+2026-10-06 22:05:55,016 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-06 22:05:55,022 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 22:05:55,022 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 22:05:55,023 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-06 22:05:55,023 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-06 22:08:50,885 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 22:08:51,107 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 22:08:51,141 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder
+2026-10-06 22:08:51,141 - FileHandler - INFO - Inspecting CSV candidate: test_mnist.csv
+2026-10-06 22:08:51,159 - FileHandler - INFO - Detected pixel image CSV (8x8, rgb=False) in test_mnist.csv
+2026-10-06 22:08:51,188 - FileHandler - INFO - Successfully converted CSV dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder\converted_images
+2026-10-06 22:08:51,507 - FileHandler - INFO - Validation report: Valid=True, Classes=['Digit_0', 'Digit_1'], Total Images=20
+2026-10-06 22:08:51,540 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder
+2026-10-06 22:08:51,542 - FileHandler - INFO - Inspecting CSV candidate: metadata.csv
+2026-10-06 22:08:51,552 - FileHandler - INFO - Detected CSV-indexed dataset in metadata.csv (img_col='image_id', lbl_col='diagnosis')
+2026-10-06 22:08:51,753 - FileHandler - INFO - Successfully organized CSV-indexed dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder\organized_by_class
+2026-10-06 22:08:51,792 - FileHandler - INFO - Validation report: Valid=True, Classes=['Benign', 'Malignant'], Total Images=10
+2026-10-06 22:08:51,802 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 22:08:53,003 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 22:08:53,052 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 22:08:53,058 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\fer_test_folder
+2026-10-06 22:08:53,059 - FileHandler - INFO - Inspecting CSV candidate: fer_sample.csv
+2026-10-06 22:08:53,084 - FileHandler - INFO - Detected space-separated pixel string dataset (4x4) in fer_sample.csv
+2026-10-06 22:08:53,120 - FileHandler - INFO - Successfully converted FER-style pixel CSV into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\fer_test_folder\converted_images
+2026-10-06 22:08:53,309 - FileHandler - INFO - Validation report: Valid=True, Classes=['Happy', 'Sad'], Total Images=12
+2026-10-06 22:08:53,327 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\flat_test_folder
+2026-10-06 22:08:53,334 - FileHandler - INFO - Auto-organizing flat images by detected class patterns: ['Covid-19', 'Normal']
+2026-10-06 22:08:53,382 - FileHandler - INFO - Validation report: Valid=True, Classes=['Covid-19', 'Normal'], Total Images=8
+2026-10-06 22:08:53,387 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-06 22:08:53,404 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 22:08:53,405 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 22:08:53,406 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-06 22:08:53,406 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-06 23:23:55,863 - FileHandler - INFO - Generating synthetic shapes dataset at temp_test_bench
+2026-10-06 23:23:55,966 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 23:23:55,969 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-10-06 23:23:56,602 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-10-06 23:23:56,603 - BenchmarkTrainer - INFO - Training ML model: rf (simulation=False)
+2026-10-06 23:23:56,722 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:23:56,820 - MetricsTracker - INFO - Average latency calculated: 1.890 ms
+2026-10-06 23:23:56,820 - BenchmarkTrainer - INFO - Training ML model: svm (simulation=False)
+2026-10-06 23:23:56,834 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:23:56,840 - MetricsTracker - INFO - Average latency calculated: 0.099 ms
+2026-10-06 23:23:56,840 - BenchmarkTrainer - INFO - Training ML model: dt (simulation=False)
+2026-10-06 23:23:56,856 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:23:56,858 - MetricsTracker - INFO - Average latency calculated: 0.035 ms
+2026-10-06 23:35:49,952 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 23:35:50,042 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 23:35:50,082 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder
+2026-10-06 23:35:50,083 - FileHandler - INFO - Inspecting CSV candidate: test_mnist.csv
+2026-10-06 23:35:50,103 - FileHandler - INFO - Detected pixel image CSV (8x8, rgb=False) in test_mnist.csv
+2026-10-06 23:35:50,150 - FileHandler - INFO - Successfully converted CSV dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder\converted_images
+2026-10-06 23:35:50,486 - FileHandler - INFO - Validation report: Valid=True, Classes=['Digit_0', 'Digit_1'], Total Images=20
+2026-10-06 23:35:50,524 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder
+2026-10-06 23:35:50,526 - FileHandler - INFO - Inspecting CSV candidate: metadata.csv
+2026-10-06 23:35:50,555 - FileHandler - INFO - Detected CSV-indexed dataset in metadata.csv (img_col='image_id', lbl_col='diagnosis')
+2026-10-06 23:35:50,742 - FileHandler - INFO - Successfully organized CSV-indexed dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder\organized_by_class
+2026-10-06 23:35:50,776 - FileHandler - INFO - Validation report: Valid=True, Classes=['Benign', 'Malignant'], Total Images=10
+2026-10-06 23:35:50,789 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 23:35:51,996 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 23:35:52,044 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 23:35:52,047 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\fer_test_folder
+2026-10-06 23:35:52,047 - FileHandler - INFO - Inspecting CSV candidate: fer_sample.csv
+2026-10-06 23:35:52,064 - FileHandler - INFO - Detected space-separated pixel string dataset (4x4) in fer_sample.csv
+2026-10-06 23:35:52,085 - FileHandler - INFO - Successfully converted FER-style pixel CSV into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\fer_test_folder\converted_images
+2026-10-06 23:35:52,264 - FileHandler - INFO - Validation report: Valid=True, Classes=['Happy', 'Sad'], Total Images=12
+2026-10-06 23:35:52,284 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\flat_test_folder
+2026-10-06 23:35:52,291 - FileHandler - INFO - Auto-organizing flat images by detected class patterns: ['Covid-19', 'Normal']
+2026-10-06 23:35:52,333 - FileHandler - INFO - Validation report: Valid=True, Classes=['Covid-19', 'Normal'], Total Images=8
+2026-10-06 23:35:52,335 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-06 23:35:52,346 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 23:35:52,347 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 23:35:52,348 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-06 23:35:52,350 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-06 23:41:31,927 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 23:41:32,105 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 23:41:32,138 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder
+2026-10-06 23:41:32,139 - FileHandler - INFO - Inspecting CSV candidate: test_mnist.csv
+2026-10-06 23:41:32,151 - FileHandler - INFO - Detected pixel image CSV (8x8, rgb=False) in test_mnist.csv
+2026-10-06 23:41:32,205 - FileHandler - INFO - Successfully converted CSV dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder\converted_images
+2026-10-06 23:41:32,377 - FileHandler - INFO - Validation report: Valid=True, Classes=['Digit_0', 'Digit_1'], Total Images=20
+2026-10-06 23:41:32,401 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder
+2026-10-06 23:41:32,403 - FileHandler - INFO - Inspecting CSV candidate: metadata.csv
+2026-10-06 23:41:32,415 - FileHandler - INFO - Detected CSV-indexed dataset in metadata.csv (img_col='image_id', lbl_col='diagnosis')
+2026-10-06 23:41:32,523 - FileHandler - INFO - Successfully organized CSV-indexed dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder\organized_by_class
+2026-10-06 23:41:32,544 - FileHandler - INFO - Validation report: Valid=True, Classes=['Benign', 'Malignant'], Total Images=10
+2026-10-06 23:41:32,551 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 23:41:33,157 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 23:41:33,235 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 23:41:33,242 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\fer_test_folder
+2026-10-06 23:41:33,244 - FileHandler - INFO - Inspecting CSV candidate: fer_sample.csv
+2026-10-06 23:41:33,255 - FileHandler - INFO - Detected space-separated pixel string dataset (4x4) in fer_sample.csv
+2026-10-06 23:41:33,280 - FileHandler - INFO - Successfully converted FER-style pixel CSV into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\fer_test_folder\converted_images
+2026-10-06 23:41:33,372 - FileHandler - INFO - Validation report: Valid=True, Classes=['Happy', 'Sad'], Total Images=12
+2026-10-06 23:41:33,386 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\flat_test_folder
+2026-10-06 23:41:33,389 - FileHandler - INFO - Auto-organizing flat images by detected class patterns: ['Covid-19', 'Normal']
+2026-10-06 23:41:33,419 - FileHandler - INFO - Validation report: Valid=True, Classes=['Covid-19', 'Normal'], Total Images=8
+2026-10-06 23:41:33,421 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-06 23:41:33,433 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 23:41:33,434 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 23:41:33,434 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-06 23:41:33,434 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
+2026-10-06 23:43:53,153 - FileHandler - INFO - Generating synthetic shapes dataset at test_e2e_workspace
+2026-10-06 23:43:53,295 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 23:43:53,295 - FileHandler - INFO - Validating dataset at test_e2e_workspace
+2026-10-06 23:43:54,248 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 23:43:54,249 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 23:43:54,366 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 23:43:54,367 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-10-06 23:43:54,387 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-10-06 23:43:54,387 - BenchmarkTrainer - INFO - Training ML model: svm (empirical run)
+2026-10-06 23:43:54,401 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:43:54,405 - MetricsTracker - INFO - Average latency calculated: 0.071 ms
+2026-10-06 23:43:54,405 - BenchmarkTrainer - INFO - Training ML model: dt (empirical run)
+2026-10-06 23:43:54,421 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:43:54,426 - MetricsTracker - INFO - Average latency calculated: 0.077 ms
+2026-10-06 23:44:50,740 - FileHandler - INFO - Generating synthetic shapes dataset at test_e2e_workspace
+2026-10-06 23:44:50,894 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 23:44:50,894 - FileHandler - INFO - Validating dataset at test_e2e_workspace
+2026-10-06 23:44:51,873 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 23:44:51,878 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 23:44:52,014 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 23:44:52,017 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-10-06 23:44:52,085 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-10-06 23:44:52,086 - BenchmarkTrainer - INFO - Training ML model: svm (empirical run)
+2026-10-06 23:44:52,115 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:44:52,121 - MetricsTracker - INFO - Average latency calculated: 0.102 ms
+2026-10-06 23:44:52,121 - BenchmarkTrainer - INFO - Training ML model: dt (empirical run)
+2026-10-06 23:44:52,141 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:44:52,144 - MetricsTracker - INFO - Average latency calculated: 0.047 ms
+2026-10-06 23:45:14,516 - FileHandler - INFO - Generating synthetic shapes dataset at test_e2e_workspace
+2026-10-06 23:45:14,724 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 23:45:14,724 - FileHandler - INFO - Validating dataset at test_e2e_workspace
+2026-10-06 23:45:15,694 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 23:45:15,698 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 23:45:15,811 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 23:45:15,813 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-10-06 23:45:15,844 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-10-06 23:45:15,845 - BenchmarkTrainer - INFO - Training ML model: svm (empirical run)
+2026-10-06 23:45:15,859 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:45:15,868 - MetricsTracker - INFO - Average latency calculated: 0.156 ms
+2026-10-06 23:45:15,868 - BenchmarkTrainer - INFO - Training ML model: dt (empirical run)
+2026-10-06 23:45:15,889 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:45:15,893 - MetricsTracker - INFO - Average latency calculated: 0.074 ms
+2026-10-06 23:45:15,893 - BenchmarkTrainer - INFO - Training ML model: rf (empirical run)
+2026-10-06 23:45:15,981 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:45:16,062 - MetricsTracker - INFO - Average latency calculated: 1.580 ms
+2026-10-06 23:45:16,062 - BenchmarkTrainer - INFO - Training DL model: cnn (simulation=True)
+2026-10-06 23:45:16,248 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-10-06 23:45:17,681 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2026-10-06 23:45:17,734 - MetricsTracker - INFO - Measuring inference latency (is_dl=True) over 50 samples.
+2026-10-06 23:45:21,961 - MetricsTracker - INFO - Average latency calculated: 82.309 ms
+2026-10-06 23:45:21,961 - BenchmarkTrainer - INFO - Training DL model: mobilenetv2 (simulation=True)
+2026-10-06 23:45:22,426 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2026-10-06 23:45:22,598 - MetricsTracker - INFO - Measuring inference latency (is_dl=True) over 50 samples.
+2026-10-06 23:45:26,594 - MetricsTracker - INFO - Average latency calculated: 67.862 ms
+2026-10-06 23:45:26,594 - BenchmarkTrainer - INFO - Training DL model: efficientnet (simulation=True)
+2026-10-06 23:45:27,341 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2026-10-06 23:45:27,553 - MetricsTracker - INFO - Measuring inference latency (is_dl=True) over 50 samples.
+2026-10-06 23:45:32,836 - MetricsTracker - INFO - Average latency calculated: 83.021 ms
+2026-10-06 23:45:32,861 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 23:45:33,443 - GradCAM - INFO - Targeting Conv2D layer for Grad-CAM: target_conv
+2026-10-06 23:46:03,120 - FileHandler - INFO - Generating synthetic shapes dataset at test_e2e_workspace
+2026-10-06 23:46:03,347 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 23:46:03,348 - FileHandler - INFO - Validating dataset at test_e2e_workspace
+2026-10-06 23:46:04,375 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 23:46:04,376 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 23:46:04,452 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 23:46:04,454 - BenchmarkTrainer - INFO - Loading and preparing dataset images...
+2026-10-06 23:46:04,514 - BenchmarkTrainer - INFO - Prepared data: Train size = 48, Val size = 12
+2026-10-06 23:46:04,515 - BenchmarkTrainer - INFO - Training ML model: svm (empirical run)
+2026-10-06 23:46:04,553 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:46:04,574 - MetricsTracker - INFO - Average latency calculated: 0.385 ms
+2026-10-06 23:46:04,575 - BenchmarkTrainer - INFO - Training ML model: dt (empirical run)
+2026-10-06 23:46:04,618 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:46:04,624 - MetricsTracker - INFO - Average latency calculated: 0.090 ms
+2026-10-06 23:46:04,624 - BenchmarkTrainer - INFO - Training ML model: rf (empirical run)
+2026-10-06 23:46:04,759 - MetricsTracker - INFO - Measuring inference latency (is_dl=False) over 50 samples.
+2026-10-06 23:46:04,856 - MetricsTracker - INFO - Average latency calculated: 1.887 ms
+2026-10-06 23:46:04,856 - BenchmarkTrainer - INFO - Training DL model: cnn (simulation=True)
+2026-10-06 23:46:05,120 - tensorflow - WARNING - TensorFlow GPU support is not available on native Windows for TensorFlow >= 2.11. Even if CUDA/cuDNN are installed, GPU will not be used. Please use WSL2 or the TensorFlow-DirectML plugin.
+2026-10-06 23:46:06,705 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2026-10-06 23:46:06,806 - MetricsTracker - INFO - Measuring inference latency (is_dl=True) over 50 samples.
+2026-10-06 23:46:12,182 - MetricsTracker - INFO - Average latency calculated: 103.432 ms
+2026-10-06 23:46:12,182 - BenchmarkTrainer - INFO - Training DL model: mobilenetv2 (simulation=True)
+2026-10-06 23:46:12,738 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2026-10-06 23:46:12,903 - MetricsTracker - INFO - Measuring inference latency (is_dl=True) over 50 samples.
+2026-10-06 23:46:17,863 - MetricsTracker - INFO - Average latency calculated: 85.068 ms
+2026-10-06 23:46:17,864 - BenchmarkTrainer - INFO - Training DL model: efficientnet (simulation=True)
+2026-10-06 23:46:19,216 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2026-10-06 23:46:19,451 - MetricsTracker - INFO - Measuring inference latency (is_dl=True) over 50 samples.
+2026-10-06 23:46:25,628 - MetricsTracker - INFO - Average latency calculated: 96.327 ms
+2026-10-06 23:46:25,673 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 23:46:26,142 - GradCAM - INFO - Targeting Conv2D layer for Grad-CAM: target_conv
+2026-10-06 23:46:26,654 - GradCAM - INFO - Targeting Conv2D layer for Grad-CAM: Conv_1
+2026-10-06 23:59:09,428 - FileHandler - INFO - Generating synthetic shapes dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 23:59:09,617 - FileHandler - INFO - Shapes dataset generation complete.
+2026-10-06 23:59:09,646 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder
+2026-10-06 23:59:09,647 - FileHandler - INFO - Inspecting CSV candidate: test_mnist.csv
+2026-10-06 23:59:09,667 - FileHandler - INFO - Detected pixel image CSV (8x8, rgb=False) in test_mnist.csv
+2026-10-06 23:59:09,715 - FileHandler - INFO - Successfully converted CSV dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\csv_test_folder\converted_images
+2026-10-06 23:59:10,048 - FileHandler - INFO - Validation report: Valid=True, Classes=['Digit_0', 'Digit_1'], Total Images=20
+2026-10-06 23:59:10,085 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder
+2026-10-06 23:59:10,087 - FileHandler - INFO - Inspecting CSV candidate: metadata.csv
+2026-10-06 23:59:10,099 - FileHandler - INFO - Detected CSV-indexed dataset in metadata.csv (img_col='image_id', lbl_col='diagnosis')
+2026-10-06 23:59:10,217 - FileHandler - INFO - Successfully organized CSV-indexed dataset into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\indexed_test_folder\organized_by_class
+2026-10-06 23:59:10,239 - FileHandler - INFO - Validation report: Valid=True, Classes=['Benign', 'Malignant'], Total Images=10
+2026-10-06 23:59:10,245 - DatasetAnalyzer - INFO - Starting detailed analysis of 60 images
+2026-10-06 23:59:11,393 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir
+2026-10-06 23:59:11,446 - FileHandler - INFO - Validation report: Valid=True, Classes=['circle', 'square'], Total Images=60
+2026-10-06 23:59:11,450 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\fer_test_folder
+2026-10-06 23:59:11,452 - FileHandler - INFO - Inspecting CSV candidate: fer_sample.csv
+2026-10-06 23:59:11,473 - FileHandler - INFO - Detected space-separated pixel string dataset (4x4) in fer_sample.csv
+2026-10-06 23:59:11,518 - FileHandler - INFO - Successfully converted FER-style pixel CSV into 2 classes at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\fer_test_folder\converted_images
+2026-10-06 23:59:11,718 - FileHandler - INFO - Validation report: Valid=True, Classes=['Happy', 'Sad'], Total Images=12
+2026-10-06 23:59:11,737 - FileHandler - INFO - Validating dataset at C:\Users\SAI DHRUVA\.gemini\antigravity\scratch\VisionBench_AI\tests_temp_dir\flat_test_folder
+2026-10-06 23:59:11,743 - FileHandler - INFO - Auto-organizing flat images by detected class patterns: ['Covid-19', 'Normal']
+2026-10-06 23:59:11,781 - FileHandler - INFO - Validation report: Valid=True, Classes=['Covid-19', 'Normal'], Total Images=8
+2026-10-06 23:59:11,783 - GroqEngine - INFO - No Groq API Key provided. Running in Local Heuristic Fallback mode.
+2026-10-06 23:59:11,789 - ModelSelector - INFO - Recommending models based on dataset statistics
+2026-10-06 23:59:11,790 - SHAPExplainer - INFO - Computing local Pixel Occlusion Sensitivity heatmap
+2026-10-06 23:59:11,790 - SHAPExplainer - INFO - Extracting global feature importance
+2026-10-06 23:59:11,790 - GradCAM - INFO - Generating simulated Grad-CAM heatmap.
